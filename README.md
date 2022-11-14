@@ -3,6 +3,8 @@
 
 ### You can also choose color theme
 
+![Снимок экрана 2022-11-14 в 10 42 49](https://user-images.githubusercontent.com/19332522/201627582-2b65a739-0c18-40f5-9c0d-fc983370a82f.png)
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to run app.
